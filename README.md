@@ -16,3 +16,9 @@ For platform-specific instructions, read https://www.nltk.org/install.htm
 
 pip install nltk
 
+This project is partly influenced by : https://medium.com/analytics-vidhya/building-a-simple-chatbot-in-python-using-nltk-7c8c8215ac6e
+
+
+# Concepts
+
+Natural Language Processing, tokenization, segmentation, stemming, lemmatization, syntactic analysis, part-of-speech tagging, named entity recognition and extraction.
